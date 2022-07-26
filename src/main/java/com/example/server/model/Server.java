@@ -8,7 +8,7 @@ import javax.validation.constraints.NotEmpty;
 
 @Entity
 @Data
-@Table(name = "server")
+@Table(name = "images")
 @AllArgsConstructor
 @NoArgsConstructor
 
